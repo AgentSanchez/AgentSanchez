@@ -1,4 +1,4 @@
-<a href="https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator"><img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/072f5f72-2a00-4ba5-9133-6d2aed7593ab" alt="Certified Kubernetes Administrator" width="200"/></a>
+[<img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/072f5f72-2a00-4ba5-9133-6d2aed7593ab" alt="Certified Kubernetes Administrator" width="200"/>](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
 <img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/6ee12ff3-e9e5-4cc3-865d-f32b747f867d" alt="CompTIA Project Plus" width="200"/>
 <img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/18b4fe7e-18db-4e2a-bb48-359fef0b46dc" alt="ITIL 4 Foundations" width="200"/>
 
