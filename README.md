@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/072f5f72-2a00-4ba5-9133-6d2aed7593ab" alt="Certified Kubernetes Administrator" width="200"/>
+<img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/6ee12ff3-e9e5-4cc3-865d-f32b747f867d" alt="CompTIA Project Plus" width="200"/>
+<img src="https://github.com/AgentSanchez/AgentSanchez/assets/37169160/b3d1ccec-60e1-46f6-8e36-35867bedfa61" alt="ITIL 4 Foundations" width="200"/>
+
+---
 
 <!--
 **AgentSanchez/AgentSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
